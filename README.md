@@ -1,0 +1,2 @@
+# MonoGameExtendedAnimatedSpriteFix
+MonoGameExtendedAnimatedSpriteFix
